@@ -11,14 +11,14 @@
     ],
     "require": {
         "php": "^8.0",
-        "inertiajs/inertia-laravel": "^0.5.2",
+        "inertiajs/inertia-laravel": "^0.6.9",
         "laravel-arcanist/arcanist": "^0.7.0"
     },
     "require-dev": {
-        "ergebnis/composer-normalize": "^2.13",
-        "mockery/mockery": "^1.4",
-        "orchestra/testbench": "^6.17 || ^7.6",
-        "phpunit/phpunit": "^9.0",
+        "ergebnis/composer-normalize": "^2.30.2",
+        "mockery/mockery": "^1.5.1",
+        "orchestra/testbench": "^6.24.1 || ^7.22.1",
+        "phpunit/phpunit": "^9.6.4",
         "roave/security-advisories": "dev-master"
     },
     "minimum-stability": "dev",
